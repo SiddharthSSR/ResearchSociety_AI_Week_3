@@ -1,1 +1,1 @@
-# ResearchSociety_Week_3
+# ResearchSociety_AI_Week_3
